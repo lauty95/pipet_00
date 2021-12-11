@@ -1,0 +1,10 @@
+.details{
+    margin-top: 50px;
+    text-align: center;
+}
+
+@media (max-width: 800px) {
+    .details{
+        margin-left: 30px;
+    }
+}
